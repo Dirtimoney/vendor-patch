@@ -1,4 +1,7 @@
-# Vendor Price Plus
+# Fix for VendorPricePlus/VendorPricePlus.lua:260: attempt to perform arithmetic on local 'count' (a secret number value, while execution tainted by 'VendorPricePlus'). This was derived from using Cursor AI and Claude coding to help figure out where the functions and variables needed to be changed and addressed. I did not write this addon, just wanted to attempt to fix a bug that was constant enough that I stopped using the addon but liked its features. Hoping the Author will adopt this or a modification of this into the actual release version.
+
+
+## Vendor Price Plus
 
 Vendor Price Plus shows the vendor value of an item on its tooltip: the price of one item, and the price of the whole stack when you are holding more than one.
 
